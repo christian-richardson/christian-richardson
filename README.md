@@ -2,7 +2,7 @@ Hi 👋, I'm Fabio!
 ==================================
 
 # 💫 About Me:
-🔭 I build Web Applicatons with Modern UI/UX, Web3 Dapp with real time blockchain event fetching, NFTs, and Love to play with different DeFi protocols <br> 🤝 I’m finding a Job to challenge "Real" world problems <br>💬 Ask me about CSS, SOLIDITY, DEFI, WEB3, JAVASCRIPT, and Life-Science related topics <br>⚡ Fun fact I was a Researcher Scientist once <br>
+🔭 I am a Senior Full Stack Developer with 10+ years of professional experience specializing in React, Next.js, TypeScript, Python, Java, Ruby, PHP and AI integration. <br>
 
 # 💻 Tech Stack: 
 <br>
@@ -18,7 +18,7 @@ Hi 👋, I'm Fabio!
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,angular,tailwind,ts,vue,next,bootstrap,gatsby,astro" />
+    <img src="https://skillicons.dev/icons?i=js,react,angular,tailwind,ts,vue,next,flutter,bootstrap,gatsby,astro" />
   </a>
 </p>
 
