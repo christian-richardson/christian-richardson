@@ -2,7 +2,7 @@ Hi 👋, I'm Fabio!
 ==================================
 
 # 💫 About Me:
-🔭 I am a Senior Full Stack Developer with 10+ years of professional experience specializing in React, Next.js, TypeScript, Python, Java, Ruby, PHP and AI integration. <br>
+🔭 I am a seasoned Full Stack Developer with professional experience specializing in React, Next.js, TypeScript, Python, Java, Ruby, PHP and AI integration. <br>
 
 # 💻 Tech Stack: 
 <br>
